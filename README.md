@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @arjittw
-- 🌱 I’m currently learning Web, AI and Mobile devlopment
